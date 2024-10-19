@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I have a certain obsession with the number 42, and I have memorized 75 digits of pi.
 - 🎨 Digital creator in my free time.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senamiguel&layout=pie&theme=merko)](https://github.com/senamiguel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senamiguel&layout=pie&theme=merko&hide=html,css,javascript)](https://github.com/senamiguel/github-readme-stats)
 <img src="https://media1.tenor.com/m/GOabrbLMl4AAAAAd/plink-cat-plink.gif" width="340" height="375"/>
 <div>
   <img src="https://media1.tenor.com/m/N3qwkwoXDD0AAAAC/crunch-cat.gif" width="42" height="40"/>
