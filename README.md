@@ -1,7 +1,7 @@
 ### Hi there, I'm Miguel Sena!👋
 
-- 💎 Studying Ruby on Rails.
-- 🌱 I’m currently learning Blazor and PHP at school.
+- 🅰 Studying Angular.
+- 🌱 Computer Science at Dom Helder Câmara Higher School
 - ⚡ Fun fact: I have a certain obsession with the number 42, and I have memorized 75 digits of pi.
 - 🎨 Digital creator in my free time.
 
