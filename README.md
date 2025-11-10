@@ -10,7 +10,7 @@
 
 #### 📊 GitHub Overview
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=senamiguel&show_icons=true&theme=merko)](https://github.com/senamiguel/github-readme-stats)[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=senamiguel&layout=compact&theme=merko&hide=html,css,javascript)](https://github.com/senamiguel/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=senamiguel&show_icons=true&theme=merko)
 
 
 ---
