@@ -1,11 +1,11 @@
 ### 👋 Hello, I'm Miguel Sena!
 
-- 🧠 Passionate about technology and innovation  
-- 💻 Currently studying **Computer Science** at *Dom Helder Câmara Higher School*  
-- ⚙️ Learning and building with **Blazor**  
-- 🎨 Digital creator in my spare time — blending creativity with code  
-- 🔢 Fun fact: I’m oddly obsessed with the number **42**, and I’ve memorized **75 digits of π** 
-
+- 🦀 Building software, exploring systems, and chasing elegant ideas
+- 🔬 Fascinated by how things work: from memory layouts and network protocols to music and perception
+- ⚡ Computer Science student
+- 🛠 Turning abstract ideas into real things
+- 🌌 Curious about technology, art, music, philosophy, and everything in between
+- 🔢 42 enjoyer · π memorizer
 ---
 
 #### 📊 GitHub Overview
